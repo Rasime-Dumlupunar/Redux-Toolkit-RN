@@ -40,4 +40,6 @@ Bu teknolojilerle aşağıdaki özellikler başarıyla geliştirilmiştir:
 ➕➖ Ürün adet artırma/azaltma
 
 📷 Ürün resmi ekleme
-# Redux-Toolkit-RN
+
+
+![](https://github.com/Rasime-Dumlupunar/Redux-Toolkit-RN/blob/main/redux-toolkit.gif)
