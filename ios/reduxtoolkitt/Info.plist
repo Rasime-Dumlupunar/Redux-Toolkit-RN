@@ -31,9 +31,12 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
-	<key>RCTNewArchEnabled</key>
+	<key>NSCameraUsageDescription</key>
+	<string>Ürün resmi için kamera gereklidir.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Ürün resmi için kamera gereklidir.</string>	
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Ürün resmi için microfon gereklidir.</string>        <key>RCTNewArchEnabled</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
